@@ -8,36 +8,36 @@
     </p>
     <div class="my-3 space-x-3 pb-3">
       <NuxtLink
-        to="https://github.com/nurRiyad"
+        to="https://www.facebook.com/profile.php?id=100006340875655"
         target="_blank"
         class="p-2 bg-gray-300 text-gray-800 rounded-md dark:bg-sky-700 dark:text-[#F1F2F4]"
         aria-label="Github"
       >
-        <Icon name="fa:github" size="1em" />
+        <Icon name="logos:facebook" size="1em" />
       </NuxtLink>
       <NuxtLink
-        to="https://www.linkedin.com/in/nur-riyad/"
+        to="https://www.linkedin.com/in/islam-naim/"
         target="_blank"
         class="p-2 bg-gray-300 text-gray-800 rounded-md dark:bg-sky-700 dark:text-[#F1F2F4]"
         aria-label="LinkedIn"
       >
-        <Icon name="fa:linkedin-square" size="1em" />
+        <Icon name="devicon:linkedin" size="1em" />
       </NuxtLink>
       <NuxtLink
-        to="https://twitter.com/qdnvubp"
+        to="https://x.com/naimahamed5"
         target="_blank"
         class="p-2 bg-gray-300 text-gray-800 rounded-md dark:bg-sky-700 dark:text-[#F1F2F4]"
         aria-label="Twitter"
       >
-        <Icon name="fa:twitter-square" size="1em" />
+        <Icon name="skill-icons:twitter" size="1em" />
       </NuxtLink>
       <NuxtLink
-        to="https://stackoverflow.com/users/16781395/nur-riyad"
+        to="https://www.instagram.com/naim_pko"
         target="_blank"
         class="p-2 bg-gray-300 text-gray-800 rounded-md dark:bg-sky-700 dark:text-[#F1F2F4]"
         aria-label="StackOverflow"
       >
-        <Icon name="fa:stack-overflow" size="1em" />
+        <Icon name="skill-icons:instagram" size="1em" />
       </NuxtLink>
     </div>
   </div>
